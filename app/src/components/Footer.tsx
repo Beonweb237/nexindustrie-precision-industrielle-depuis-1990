@@ -218,14 +218,6 @@ export default function Footer() {
             >
               Politique de confidentialité
             </Link>
-            <a
-              href="https://www.beonweb.cm/"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="text-[12px] font-ibmPlexMono text-slate-500 hover:text-orange-500 transition-colors"
-            >
-              Conçu par Beonweb
-            </a>
           </div>
         </div>
       </div>
